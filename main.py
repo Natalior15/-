@@ -1,6 +1,7 @@
 def main():
     print('Hello, World!')
     print('WordlSkills Russia')
+    print('')
 
 
 
